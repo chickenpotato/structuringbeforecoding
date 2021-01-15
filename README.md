@@ -1,1 +1,2 @@
-# structuringbeforecoding
+# synchronousBallMovement
+Ball moving synchronously
